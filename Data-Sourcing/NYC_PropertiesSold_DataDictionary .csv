@@ -1,0 +1,23 @@
+Column Name,Column Description,"Term, Acronym, or Code Definitions","Additional Notes 
+"
+Borough,The name of the borough in which the property is located,,
+Neighborhood,DOF assessors determine the neighborhood name in the course of valuing properties.,,
+Building Class Category,This identifies properties broad usage (e.g. One Family Home).,,
+Tax Class ,"Present Tax Class. Every property in the city is assigned to one of four tax classes (Classes 1,2, 3, and 4) based on the use of the property","Class 1: Includes most residential properties of up to three units (such as one-, two-, and three-family homes and small stores or offices with one or two attached apartments), vacant land that is zoned for residential use, and  most condominiums that are not more than three stories.                                                                                                Class 2: All other properties that are  primarily residential, such as cooperatives and condominiums.                                                                                                                    Class 3: Properties with equipment owned by gas, telephone, or electric company.                                                                                                                                                                                     Class 4: All other properties not included in classes 1, 2, and 3 such as offices, factories, warehouses, garage buildings, etc.",
+Block,A Tax Block is a sub-division of the borough on which real properties are located ,,
+Lot,A tax Lot is a subdivision of a tax Block and represents the property unique location,,
+Easement,"An easement is a right, such as a right of way, which allows an entity to make limited use of another's real property",,
+Building Class As Of Final Roll,The building classification is used to describe a property's constructive use,"The first position of the Building Class is a letter that is used to describe a general class of properties. A= one-family homes O = Office buildings R  =  Condominiums .The second position is a number that adds more specific information about the property's use or construction style. Example, ""A0"" is a Cape Cod style one family home, ""O4"" is a tower type office building and ""R5"" is a commercial condominium unit.",The term Building Class and used by DOF is interchangeable with the term Building Code used by the Department of Buildings
+Address,The street  address of the property as listed on the Sales File. Coop sales include the apartment in the address field,,
+Apartment Number,,,
+Zip Code,The property's postal code,,
+Residential Units,The number of residential units at the listed property,,
+Commercial Units,The number of commercial units at the listed property,,
+Total Units,The total number of units at the listed property,,
+Land Square Feet,The land are of the property listed in square feet,,
+Gross Square Feet,"The total area of all e floors of a building as measured from the exterior surfaces of the outside walls of the building , including the land area and space within any building structure on the property", ,
+Year Built,Year the structure on the property was built.,,
+Tax Class At Time Of Sale,Tax Class at time of sale,,
+Building Class At Time Of Sale,The building classification at the time of sale,,
+Sale Price,Price paid for the property,A $0 sale price indicates that there was a transfer of ownership without a cash consideration.,
+Sale Date,Date the property sold,,
