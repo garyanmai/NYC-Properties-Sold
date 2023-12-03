@@ -22,7 +22,7 @@
 
 Steps:
 1. **Data-Sourcing**: Source the data set from the data set link (DataSourcing_Script_CIS4400)
-2. **Data-Storing**: Create Storage Bucket in AWS S3 and Upload Data Set To Bucket (DataStoring_Script_CIS4400)
+2. **Data-Storing**: Create Storage Bucket in AWS S3 and Upload Data Set To Bucket ('AWS_S3_Storage_Script_CIS4400' or 'GoogleCloud_StorageScript_CIS4400' )
 3. **Data-Cleaning-Transforming**: Clean and Transform Data (Clean_Transform_Script_CIS4400)
 4. **Data-Warehouse**: Design The Data Model, Create Script for Data Warehouse, Load Data into Data Warehouse (In-Progress)
 5. **Data-Analytics**: (In-Progress)
