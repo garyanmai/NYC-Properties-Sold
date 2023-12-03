@@ -11,6 +11,7 @@
 **Cleaned Data Dictionary**: https://docs.google.com/spreadsheets/d/17XyGmnw2fZuTMCWVKB1XiWGHQuwqWOidm0w80lbIyjE/edit?usp=sharing
 
 **Data Model**:
+
 <img width="732" alt="DATAMODEL_CIS4400" src="https://github.com/garyanmai/NYC-Properties-Sold/assets/145724601/4ceb0052-55ed-48c4-9b72-503b7d02f964">
 
 **Cloud Service**: AWS Simple Storage Service (S3), Google Cloud Storage, Google BigQuery, Google Looker Studio
