@@ -20,6 +20,7 @@
 **Presentation**:
 
 **Final Dashboard**:
+<img width="899" alt="DASHBOARD_CIS4400" src="https://github.com/garyanmai/NYC-Properties-Sold/assets/145724601/fee1ff59-34c4-4f6b-87d8-27800ecc3487">
 
 Steps:
 1. **Data-Sourcing**: Source the data set from the data set link (DataSourcing_Script_CIS4400)
