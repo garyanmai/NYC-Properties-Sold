@@ -16,7 +16,7 @@
 
 **Cloud Service**: AWS Simple Storage Service (S3), Google Cloud Storage, Google BigQuery, Google Looker Studio
 
-**Python Libraries Needed**: pandas, InteractiveShell, warnings, requests, os, google-cloud-storage
+**Python Libraries Needed**: pandas, InteractiveShell, warnings, requests, os, google-cloud-storage, google-cloud-bigquery, pandas gcsfs, pyarrow
 
 **Presentation**:
 
