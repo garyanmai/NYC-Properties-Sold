@@ -18,7 +18,7 @@
 
 **Python Libraries Needed**: pandas, InteractiveShell, warnings, requests, os, google-cloud-storage, google-cloud-bigquery, pandas gcsfs, pyarrow
 
-**Presentation**:
+**Presentation**: https://docs.google.com/presentation/d/1DbEQCUif4SYc6rnFVbkv-Sw25lSdYN0m-8CcNQjr1ME/edit?usp=sharing
 
 **Final Dashboard**:
 <img width="898" alt="DASHBOARD_CIS4400" src="https://github.com/garyanmai/NYC-Properties-Sold/assets/145724601/cbeebd17-2c63-4da2-a94b-3fe658fcabed">
