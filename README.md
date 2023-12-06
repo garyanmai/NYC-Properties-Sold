@@ -8,7 +8,7 @@
 
 **Data Dictionary**: https://docs.google.com/spreadsheets/d/17XyGmnw2fZuTMCWVKB1XiWGHQuwqWOidm0w80lbIyjE/edit?usp=sharing
 
-**Cleaned Data Dictionary**: https://docs.google.com/spreadsheets/d/17XyGmnw2fZuTMCWVKB1XiWGHQuwqWOidm0w80lbIyjE/edit?usp=sharing
+**Presentation**: https://docs.google.com/presentation/d/1DbEQCUif4SYc6rnFVbkv-Sw25lSdYN0m-8CcNQjr1ME/edit?usp=sharing
 
 **Data Model**:
 
@@ -17,8 +17,6 @@
 **Cloud Service**: AWS Simple Storage Service (S3), Google Cloud Storage, Google BigQuery, Google Looker Studio
 
 **Python Libraries Needed**: pandas, InteractiveShell, warnings, requests, os, google-cloud-storage, google-cloud-bigquery, pandas gcsfs, pyarrow
-
-**Presentation**: https://docs.google.com/presentation/d/1DbEQCUif4SYc6rnFVbkv-Sw25lSdYN0m-8CcNQjr1ME/edit?usp=sharing
 
 **Final Dashboard**:
 <img width="898" alt="DASHBOARD_CIS4400" src="https://github.com/garyanmai/NYC-Properties-Sold/assets/145724601/cbeebd17-2c63-4da2-a94b-3fe658fcabed">
